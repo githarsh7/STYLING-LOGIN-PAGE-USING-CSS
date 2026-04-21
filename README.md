@@ -21,3 +21,5 @@ A modern and responsive login page built using **HTML** and **CSS**. This projec
   Stores additional resources like images, icons, or custom fonts used in the project.
 
 ## Connect With Me 🤝 :
+- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+- Gmail : harshaavardhan8@gmail.com
