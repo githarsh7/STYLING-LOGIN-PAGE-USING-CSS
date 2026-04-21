@@ -1,0 +1,43 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background-color: #f4f6f8;
+    margin: 20px;
+}
+
+button{
+    background-color: aquamarine;
+    color: white;
+    border: none;
+    padding: 8px 14px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: pink;
+}
+input[type="Name"],
+input[type="Email"],
+input[type="Password"],
+input[type="radio"]
+input[type="checkbox"]{
+    width: 300px;
+    padding: 5px;
+    border: 1px solid blueviolet;
+    margin-bottom: 14px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: saddlebrown;
+    color: white ;
+}
+tr:hover{
+    background-color: wheat;
+}
+label{
+    display: inline-block;
+    margin-bottom: 10px
+}
